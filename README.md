@@ -10,8 +10,8 @@ what's in your pantry, when it expires, and what you've consumed.
 ## 🛠️ Technologies
 
 - Python
-- React *(coming soon)*
-- MySQL *(coming soon)*
+- React 
+- MySQL 
 
 ---
 
