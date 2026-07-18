@@ -86,7 +86,7 @@ python main.py
 
 ## 📸 Follow the build
 
-I'm documenting this entire journey on Instagram — every decision, 
+I'm documenting this entire journey on Instagram & Linkedin — every decision, 
 every bug, every feature.
 
 ➡️ @oualiddev-eng
